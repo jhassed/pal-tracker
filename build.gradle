@@ -33,5 +33,5 @@ bootRun.environment([
 ])
 
 test.environment([
-        "WELCOME_MESSAGE": "A welcome message",
+        "WELCOME_MESSAGE": "Hello from test",
 ])
